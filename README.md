@@ -59,11 +59,6 @@ Please download the CSV files below and place them in the `data/` folder.
 ├─ data/                    # Place congestion CSV files here (manual download required)
 │   ├─ subway_congestion.csv
 │   └─ bus_congestion.csv
-├─ assets/
-│   ├─ run.png
-│   ├─ search.png
-│   ├─ bus_prefer_search_map.png
-│   └─ subway_prefer_search_map.png
 ```
 
 ---
@@ -128,3 +123,4 @@ http://localhost:8501
 * [ODsay Open API](https://dev.odsay.com)
 * [Seoul Open Data Plaza](https://data.seoul.go.kr)
 * [Streamlit Official Site](https://streamlit.io)
+
